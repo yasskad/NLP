@@ -1,0 +1,2 @@
+- Homework notebook
+- all pickle files are dumped and loaded from the jupyter notebook. They were created for obvious efficiency reasons to avoid running all the code again
